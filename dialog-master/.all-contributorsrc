@@ -1,0 +1,56 @@
+{
+  "projectName": "dialog",
+  "projectOwner": "@ngneat",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "tonivj5",
+      "name": "Toni Villena",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7110786?v=4",
+      "profile": "https://github.com/tonivj5",
+      "contributions": [
+        "code",
+        "infra",
+        "test"
+      ]
+    },
+    {
+      "login": "NetanelBasal",
+      "name": "Netanel Basal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6745730?v=4",
+      "profile": "https://www.netbasal.com/",
+      "contributions": [
+        "doc",
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "theblushingcrow",
+      "name": "Inbal Sinai",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/638818?v=4",
+      "profile": "https://github.com/theblushingcrow",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "shaharkazaz",
+      "name": "Shahar Kazaz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17194830?v=4",
+      "profile": "https://github.com/shaharkazaz",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

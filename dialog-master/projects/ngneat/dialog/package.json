@@ -1,0 +1,27 @@
+{
+  "name": "@ngneat/dialog",
+  "version": "1.0.0",
+  "schematics": "./schematics/collection.json",
+  "description": "Simple to use, highly customizable, and powerful modal for Angular Apps",
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "keywords": [
+    "angular",
+    "dialog",
+    "modal",
+    "angular modal"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/ngneat/dialog/issue"
+  },
+  "homepage": "https://github.com/ngneat/dialog#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngneat/dialog"
+  }
+}
