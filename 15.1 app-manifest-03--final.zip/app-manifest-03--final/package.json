@@ -14,6 +14,9 @@
     "complete",
     "tutorial"
   ],
+  
+  
+  
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
