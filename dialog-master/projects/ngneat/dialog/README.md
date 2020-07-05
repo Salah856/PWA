@@ -15,6 +15,8 @@ Run `ng build dialog` to build the project. The build artifacts will be stored i
 
 After building your library with `ng build dialog`, go to the dist folder `cd dist/dialog` and run `npm publish`.
 
+
+
 ## Running unit tests
 
 Run `ng test dialog` to execute the unit tests via [Karma](https://karma-runner.github.io).
